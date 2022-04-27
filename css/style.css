@@ -387,7 +387,7 @@ body{
 }
 @media (max-width: 458.98px) {
     .premier-dog {
-        padding: 650px 0 130px;
+        padding: 650px 0 100px;
     }
 }
 
@@ -410,6 +410,12 @@ body{
         font-size: 46px;
     } 
 }
+@media (max-width: 458.98px) {
+    .premier-dog__title {
+        font-size: 36px;
+    } 
+}
+
 /* --------------------------------who-we-are----------------- */
 
 
